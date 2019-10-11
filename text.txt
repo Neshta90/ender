@@ -1,5 +1,14 @@
 asdfasdfa dsa ads fasdfasdf 
  asdf asd
 fa sdf asdf a
+<<<<<<< HEAD
 
 add several text lines!!!
+=======
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+
+
+hwllow qorld
+my bNW BP yura
+>>>>>>> 157fd81f8d08e8ac5e78c173ce492a27dcbd4fe2
